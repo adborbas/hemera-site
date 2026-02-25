@@ -1,0 +1,13 @@
+title: Hemera
+description: A Home Assistant client for iOS
+url: "" # Set to your GitHub Pages URL, e.g. https://adborbas.github.io
+baseurl: "/hemera-site" # Repository name — remove if using custom domain
+
+permalink: /:title/
+
+markdown: kramdown
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
