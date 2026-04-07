@@ -6,11 +6,13 @@ title: Privacy Policy
 # Privacy Policy
 
 **Hemera**
-Last updated: February 10, 2026
+Last updated: April 7, 2026
 
 ## Overview
 
 Hemera is a companion app for Home Assistant. It connects directly to a Home Assistant server that you provide and control. We do not operate any servers or services on your behalf.
+
+Hemera is [open source](https://github.com/adborbas/Hemera) under the MIT License — you can review the source code to verify these privacy claims yourself.
 
 ## Data Collection
 
@@ -39,6 +41,10 @@ This data never leaves your device except to communicate with your Home Assistan
 ## Third-Party Services
 
 Hemera does not integrate any third-party analytics, advertising, or tracking services.
+
+## Tracking
+
+Hemera does not track you across other apps or websites.
 
 ## Children's Privacy
 
