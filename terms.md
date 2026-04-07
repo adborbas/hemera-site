@@ -6,7 +6,7 @@ title: Terms of Service
 # Terms of Service
 
 **Hemera**
-Last updated: February 25, 2026
+Last updated: April 7, 2026
 
 ## Acceptance
 
