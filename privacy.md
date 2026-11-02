@@ -6,7 +6,7 @@ title: Privacy Policy
 # Privacy Policy
 
 **Hemera**
-Last updated: April 7, 2026
+Last updated: November 2, 2026
 
 ## Overview
 
@@ -20,13 +20,15 @@ Hemera does not collect, store, or transmit any personal data to us or any third
 
 ## Network Communication
 
-All network communication occurs exclusively between your device and the Home Assistant server you configure. This includes:
+Apart from the update check described below, all network communication occurs exclusively between your device and the Home Assistant server you configure. This includes:
 
 - WebSocket connections for real-time device state updates
 - REST API calls for retrieving area and entity information
 - Service calls for controlling your smart home devices
 
 No data from these communications is sent anywhere other than your own Home Assistant instance.
+
+The one exception: when Kiosk Mode is on, Hemera asks Apple's App Store about once a day whether a newer version of Hemera is available, so it can let you know when the device has fallen behind. The request contains only Hemera's App Store identifier. No personal data or Home Assistant data is included.
 
 ## Local Storage
 
